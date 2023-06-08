@@ -1,0 +1,18 @@
+{
+  "id": 6,
+  "category": {
+    "id": 1,
+    "name": "Hydra"
+  },
+  "name": "Princess",
+  "photoUrls": [
+    "https://gods-and-demons.fandom.com/wiki/Lernaean_Hydra?file=Venture_the_fog_hydra_by_darkcloud013_dbpdkjn-fullview.jpg"
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "cute"
+    }
+  ],
+  "status": "available"
+}

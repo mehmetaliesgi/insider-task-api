@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: crud.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.147 s <<< FAILURE! - in crud.TestRunner
+crud.TestRunner.testParallel  Time elapsed: 2.123 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/fasterxml/jackson/databind/ser/std/ToStringSerializerBase
+	at crud.TestRunner.testParallel(TestRunner.java:13)
+Caused by: java.lang.ClassNotFoundException: com.fasterxml.jackson.databind.ser.std.ToStringSerializerBase
+	at crud.TestRunner.testParallel(TestRunner.java:13)
+

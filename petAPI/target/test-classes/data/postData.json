@@ -1,0 +1,18 @@
+{
+  "id": "#ignore",
+  "category": {
+    "id": 1,
+    "name": "dogs"
+  },
+  "name": "black",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "Border Collie"
+    }
+  ],
+  "status": "available"
+ }
